@@ -12,3 +12,4 @@ populär gemacht.
 * Beruf: Hacker
 * Skills: Programmieren
 
+> Wir alle sind hier, um genau das zu tun, was wir tun.
