@@ -13,3 +13,5 @@ populär gemacht.
 * Skills: Programmieren
 
 > Wir alle sind hier, um genau das zu tun, was wir tun.
+
+<img src="https://ais.rtl.de/masters/1237369/1686x0/DEOQQXTSXF5AHJ77PCLEIIZRNA.jpg"/>
